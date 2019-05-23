@@ -1,4 +1,4 @@
-""" Instructions
+""" Growth of a Population - 7 kyu Kata Fundamentals
 
 In a small town the population is p0 = 1000 at the beginning of a year. The
 population regularly increases by 2 percent per year and moreover 50 new

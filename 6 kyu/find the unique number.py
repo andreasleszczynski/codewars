@@ -1,4 +1,4 @@
-""" Find the unique number
+﻿""" Find the unique number - 6 kyu Kata Fundamentals
 There is an array with some numbers. All numbers are equal except for one. Try
 to find it!
 

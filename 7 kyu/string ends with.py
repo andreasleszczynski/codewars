@@ -1,4 +1,4 @@
-""" String ends with?
+""" String ends with? - 7 kyu Kata Fundamentals
 Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
 
 Examples:

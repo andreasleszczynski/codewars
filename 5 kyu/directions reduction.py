@@ -1,4 +1,4 @@
-""" Directions Reduction
+﻿""" Directions Reduction - 5 kyu Kata Fundamentals
 Once upon a time, on a way through the old wild west,…
 … a man was given directions to go from one point to another. The directions
 were "NORTH", "SOUTH", "WEST", "EAST". Clearly "NORTH" and "SOUTH" are opposite,
